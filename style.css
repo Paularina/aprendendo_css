@@ -4,8 +4,15 @@ header h2 {
     text-align: center;
     background-color: aqua;
     padding: 100px;
+    border: 70px dashed orangered;
+    border-radius: 40px;
 }
 
+main h2 {
+    border-radius: 40px;
+    background-color: greenyellow;
+    color: turquoise;
+}
 header nav ul li {
     font-size: 30px;
     list-style-type: upper-latin;
@@ -45,6 +52,7 @@ section ol li {
 footer {
     background-color: black;
     margin: 70px;
+    border-radius: 40px;
 }
 
 footer p {

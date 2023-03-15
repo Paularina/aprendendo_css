@@ -1,0 +1,32 @@
+.paragrafro {
+    color: pink;
+    font-size: 25px;
+    background-color: bisque;
+}
+
+#fim h3 {
+    color: crimson;
+    font-size: 20px;
+}
+
+.div-sessao-dois {
+    color: blue;
+    background: red;
+    padding: 40px;
+    border-radius: 15px;
+
+}
+
+.div-sessao-dois h2 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    margin-bottom: 22px;
+}
+
+.div-sessao-dois p {
+    font-size: 22px;
+    color: azure;
+    text-align: center;
+}
