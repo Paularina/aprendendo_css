@@ -1,8 +1,55 @@
 header h2 {
     font-size: 100px;
+    padding: 100px;
+    text-align: center;
+    background-color: aqua;
+    padding: 100px;
 }
 
-header nav ul li{
+header nav ul li {
     font-size: 30px;
+    list-style-type: upper-latin;
+    text-decoration: underline;
+    margin-left: 10px;
+    color: blue;
 }
 
+section {
+    padding: 50px;
+}
+
+#lista-bichinhos ol li{
+    color: palevioletred;
+    text-align: center;
+}
+
+main div p {
+    text-align: justify;
+    color: fuchsia;
+    padding: 25px;
+    background-color: blanchedalmond;
+}
+
+section h2 {
+    color: red;
+    background-color: darkblue;
+    padding: 20px;
+}
+
+section ol li {
+    color: violet;
+    background-color: red;
+    margin: 15px;
+}
+
+footer {
+    background-color: black;
+}
+
+footer p {
+    color: yellowgreen;
+}
+
+footer h2 {
+    text-decoration: line-through;
+}
