@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.primeira-caixa {
+    padding: 20px;
+    background: plum;
+    margin-top: 50px;
+    text-align: center;
+    width: 500px;
+}
+
+.primeira-caixa h2 {
+    font-size: 20px;
+    color: gray;
+}
+
+.primeira-caixa p {
+    font-size: 16px;
+    margin-top: 50px;
+    color: gray;
+    margin-bottom: 50px;
+}
+
+.primeira-caixa span {
+    font-size: 14px;
+    margin-top: 10px;
+    color: gray;
+}
+
+.caixa-vazia {
+    margin-top: 50px;
+    width: 400px;
+    height: 400px;
+    background: red;
+}
+
+.segunda-caixa {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 400px;
+    padding: 40px;
+    background: burlywood;
+}
+
+.segunda-caixa:hover {
+    background: darkorchid;
+}
+
+.segunda-caixa h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.segunda-caixa form {
+    
+}
+
+.segunda-caixa form input {
+    width: 100%;
+    outline: none;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+.segunda-caixa form input:hover {
+    border: 2px solid red;
+
+}
+
+.segunda-caixa form button {
+    width: 100%;
+    padding: 15px;
+    border: none;
+    background: green;
+    color: whitesmoke;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .2s;
+    font-size: 14;
+}
+
+.segunda-caixa form button:hover {
+    background: aquamarine;
+    color: darkblue;
+
+}
