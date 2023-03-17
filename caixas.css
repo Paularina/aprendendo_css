@@ -89,3 +89,18 @@
     color: darkblue;
 
 }
+
+.caixa-pai {
+    width: 500px;
+    height: 300px;
+    margin-top: 50px;
+    background: green;
+}
+
+.caixa-filho {
+    width: 50%;
+    height: 40%;
+    background: paleturquoise;
+    margin-left: 50%;
+    margin-top: 50%;
+}
